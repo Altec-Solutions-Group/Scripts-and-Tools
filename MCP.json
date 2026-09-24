@@ -1,0 +1,48 @@
+{
+  "mcpServers": {
+    "cipp": {
+      "url": "https://cipp-mcp.young-math-a33a.workers.dev/mcp",
+      "transport": "http"
+    },
+    "cloudflare": {
+      "url": "https://mcp.cloudflare.com/mcp",
+      "auth": "oauth",
+      "transport": "http"
+    },
+    "gworkspace": {
+      "url": "https://gworkspace-mcp.young-math-a33a.workers.dev/mcp",
+      "transport": "http"
+    },
+    "halopsa": {
+      "url": "https://halopsa-mcp.young-math-a33a.workers.dev/mcp",
+      "transport": "http"
+    },
+    "hudu": {
+      "type": "sse",
+      "url": "https://altecusa.huducloud.com/mcp/sse",
+      "transport": "sse"
+    },
+    "huntress-worker": {
+      "url": "https://huntress-mcp.young-math-a33a.workers.dev/mcp",
+      "transport": "http"
+    },
+    "huntress": {
+      "url": "https://api.huntress.io/v1/mcp",
+      "auth": "oauth",
+      "transport": "http"
+    },
+    "meraki": {
+      "url": "https://meraki-mcp.young-math-a33a.workers.dev/mcp",
+      "transport": "http"
+    },
+    "ninjarmm": {
+      "url": "https://ninjarmm-mcp.young-math-a33a.workers.dev/mcp",
+      "transport": "http"
+    },
+    "pax8": {
+      "url": "https://mcp.pax8.com/v1/mcp",
+      "auth": "oauth",
+      "transport": "http"
+    }
+  }
+}
